@@ -1,0 +1,19 @@
+
+body {
+    background-image: url('https://datals.pl/wp-content/uploads/2016/08/Depositphotos_17703623_original.jpg');
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+.passwords {
+    font-size: 25px;
+    color: purple;
+    padding-left: 18px;
+}
+/* index */
+.main-message {
+    text-align: center;
+    size: 6rem;
+}
+.buttons {
+    text-align: center;
+}
