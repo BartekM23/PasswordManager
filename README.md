@@ -3,8 +3,10 @@
 Projekt bezpiecznej aplikacji webowej stworzonej w ramach przedmiotu 'Ochrona danych w systemach informatycznych'.
 
 Zabezpieczenia i funkcjonalności:
-restrykcyjna walidacja danych pochodzących z formularza login-hasło,
+restrykcyjna walidacja danych pochodzących z formularza login-hasło, 
+
 przechowywanie hasła chronione funkcją hash, solą i pieprzem,
+
 możliwość umieszczenia na serwerze haseł dostępnych prywatnie lub dla określonych użytkowników,
 szyfrowanie symetryczne przechowywanych haseł,
 możliwość zmiany hasła,
